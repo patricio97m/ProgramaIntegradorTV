@@ -4,4 +4,4 @@ Programa que se basa en el sistema operativo de una TV. Consta de 3 clases que i
 - Canal
 - Entradas
 - Televisor
-
+El programa PruebaTelevisor es el encargado de simular la TV encendida.
